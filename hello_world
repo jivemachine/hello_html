@@ -6,8 +6,8 @@
 
     <div id="quote">
       <h3>Here is a quote</h3>
-      <p>"When I was a boy and I would see scary things in the news, 
-        my mother would say to me, “Look for the helpers. You will always 
+      <p>"When I was a boy and I would see <strong>scary</strong> things in the news, 
+        my mother would say to me, “Look for the <em>helpers</em>. You will always 
         find people who are helping." - Fred Rodgers</p>
       <h4>Here is my current level of understanding</h4>
     </div>
