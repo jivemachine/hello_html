@@ -20,4 +20,15 @@
       <p>The div tags <br> just give you more control of what all your html can affect. <br> It's 
         like an area of effect spell</p>
     </div>
+    <div>
+      <h3>List of things i know</h3>
+      <ul>
+          <li>Headers</li>
+          <li>body tags</li>
+          <li>div tags</li>
+          <li>paragraph tags (don't know why they dont auto indent...)</li>
+          <li>& unordered lists!</li>
+      </ul>
+
+    </div>
 </body>
