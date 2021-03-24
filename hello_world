@@ -1,7 +1,11 @@
-<h1>Hello World</h1>
+<h1>Hello World!</h1>
 
 <body>
     <p>"When I was a boy and I would see scary things in the news, 
         my mother would say to me, “Look for the helpers. You will always 
         find people who are helping." - Fred Rodgers</p>
+    <div><p>I think the div labels make a greater amount of space between text like, 
+        starting a new paragraph.
+        and the p tags are just for adding text?
+    </p></div>
 </body>
