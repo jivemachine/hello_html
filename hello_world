@@ -16,5 +16,8 @@
         starting a new paragraph.
         and the p tags are just for adding text?
       </p>
+      <h3>Update:</h3>
+      <p>The div tags <br> just give you more control of what all your html can affect. <br> It's 
+        like an area of effect spell</p>
     </div>
 </body>
