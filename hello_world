@@ -29,6 +29,15 @@
           <li>paragraph tags (don't know why they dont auto indent...)</li>
           <li>& unordered lists!</li>
       </ul>
+      <h4>Ordered list of things i know!</h4>
+      <ol>
+          <li>Headers</li>
+          <li>body tags</li>
+          <li>div tags</li>
+          <li>paragraphs</li>
+          <li>unordered lists</li>
+          <li>ORDERED LISTS!</li>
+      </ol>
 
     </div>
 </body>
