@@ -1,18 +1,20 @@
-<div id="intro"> 
-  <h1>Hello World!</h1>
-</div>
 <body>
+  <div id="intro"> 
+    <h1>Hello World!</h1>
+    <p>"I'm Jeremy and welcome to my channel!"</p>
+  </div>
+
     <div id="quote">
-    <h3>Here is a quote</h3>
-    <p>"When I was a boy and I would see scary things in the news, 
+      <h3>Here is a quote</h3>
+      <p>"When I was a boy and I would see scary things in the news, 
         my mother would say to me, “Look for the helpers. You will always 
         find people who are helping." - Fred Rodgers</p>
-    <h4>Here is my current level of understanding</h4>
+      <h4>Here is my current level of understanding</h4>
     </div>
     <div id="understanding"> 
-        <p>I think the div labels make a greater amount of space between text like, 
+      <p>I think the div labels make a greater amount of space between text like, 
         starting a new paragraph.
         and the p tags are just for adding text?
-    </p>
+      </p>
     </div>
 </body>
